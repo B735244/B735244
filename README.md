@@ -1,26 +1,37 @@
 <!-- 프로필 상단 인사말 & 한 줄 소개 -->
-<h2 align="center"> Developer 손보금 <YOUR NAME> </h2>
+<h1 align="center"> 손보금 <YOUR NAME> </h1>
 <p align="center">
-  Java, Springboot, React, iOS Swift 앱 개발
+  Java, Springboot 웹 개발, React, iOS Swift 앱 개발, Docker, CI/CD(Jenkins)
 </p>
 
 ---
 
 ### Contribution Activity
+> stats 추가하자
 
-![Bogeum's GitHub stats](https://github-readme-stats.vercel.app/api?username=B735244&show_icons=true&theme=radical)
 
 <div align="center" style="background:#2C3930; padding:20px; border-radius:12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=B735244&show_icons=true&theme=great-gatsby&bg_color=2C3930&hide_border=true" width="80%" />
+
+  <br/>
+
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=B735244&theme=great-gatsby&background=2C3930&hide_border=true" 
+    width="60%"
+  />
+
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=B735244&theme=great-gatsby&background=2C3930&hide_border=true" width="80%"/>
-  <br/><br/>
-  <img src="https://ghchart.rshah.org/B735244" alt="GitHub Contribution Chart"/>
+
+ 
+  <img 
+    src="https://ghchart.rshah.org/B735244" 
+    width="60%"
+  />
+
 </div>
 
-
-
 ---
+
 ###  About Me
 
 -  반려동물 장례·상담·굿즈 통합 플랫폼 **LastPage Project** 개발 중  
@@ -104,13 +115,12 @@
 ###  Contact
 
 - Email: **dig05252@gmail.com**  
-- Blog / Notion: ([https://example.com](https://www.notion.so/BIGDATA-UI-224ec1c69c8280a9b6ffe4ab01e9de8a))  
-- 기타: 추후 운영 중인 서비스 링크(LastPage, 포트폴리오 배포 주소 등) 추가 예정 
+- Blog / Notion: **https://www.notion.so/BIGDATA-UI-224ec1c69c8280a9b6ffe4ab01e9de8a**
 
 ---
 
 ###  마지막 말
 
-> “꾸준히 쌓인 로그처럼, 매일 조금씩 성장하는 개발자가 되고 싶습니다.”
+> “꾸준하며 정도를 걷는 개발자가 되겠습니다.”
 
 
