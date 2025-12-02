@@ -76,7 +76,7 @@
   - Swift + (예정) Spring Boot / FastAPI 백엔드  
   - 지역/카테고리별 맛집 추천 & 북마크  
 
-필요하면 나중에 자세한 프로젝트 리스트를 표로 정리해서 추가해도 좋아요 👇
+---
 
 | Project | Stack | Description |
 |--------|-------|-------------|
@@ -89,11 +89,11 @@
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-id>&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<B735244>&show_icons=true&theme=transparent" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-github-id>&theme=transparent" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<B735244>&theme=transparent" alt="GitHub streak" />
 </p>
 
 ---
