@@ -6,6 +6,18 @@
 
 ---
 
+### Contribution Activity
+
+<div align="center" style="background:#2C3930; padding:20px; border-radius:12px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=<B735244>&show_icons=true&theme=great-gatsby&bg_color=2C3930&hide_border=true" width="80%" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=<B735244>&theme=great-gatsby&background=2C3930&hide_border=true" width="80%"/>
+  <br/><br/>
+  <img src="https://ghchart.rshah.org/<B735244>" alt="GitHub Contribution Chart"/>
+</div>
+
+
+---
 ###  About Me
 
 -  반려동물 장례·상담·굿즈 통합 플랫폼 **LastPage Project** 개발 중  
@@ -83,18 +95,6 @@
 | LastPage | Spring Boot, JPA, MySQL, Thymeleaf | 반려동물 장례/상담/굿즈 통합 플랫폼 |
 | Portfolio | HTML/CSS/JS, (Tailwind) | 개인 개발자 포트폴리오 사이트 |
 | iOS App | Swift, (Backend 예정) | 맛집 추천 및 기록 앱 |
-
----
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<B735244>&show_icons=true&theme=transparent" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<B735244>&theme=transparent" alt="GitHub streak" />
-</p>
 
 ---
 
