@@ -8,13 +8,16 @@
 
 ### Contribution Activity
 
+![Bogeum's GitHub stats](https://github-readme-stats.vercel.app/api?username=B735244&show_icons=true&theme=radical)
+
 <div align="center" style="background:#2C3930; padding:20px; border-radius:12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=<B735244>&show_icons=true&theme=great-gatsby&bg_color=2C3930&hide_border=true" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=B735244&show_icons=true&theme=great-gatsby&bg_color=2C3930&hide_border=true" width="80%" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=<B735244>&theme=great-gatsby&background=2C3930&hide_border=true" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=B735244&theme=great-gatsby&background=2C3930&hide_border=true" width="80%"/>
   <br/><br/>
-  <img src="https://ghchart.rshah.org/<B735244>" alt="GitHub Contribution Chart"/>
+  <img src="https://ghchart.rshah.org/B735244" alt="GitHub Contribution Chart"/>
 </div>
+
 
 
 ---
