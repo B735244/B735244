@@ -1,16 +1,113 @@
-## Hi there 👋
+<!-- 프로필 상단 인사말 & 한 줄 소개 -->
+<h2 align="center"> Developer 손보금 <YOUR NAME> </h2>
+<p align="center">
+  Java, Springboot, React, iOS Swift 앱 개발
+</p>
 
-<!--
-**B735244/B735244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###  About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  반려동물 장례·상담·굿즈 통합 플랫폼 **LastPage Project** 개발 중  
+-  Spring Boot, JPA, MySQL 기반의 백엔드 & HTML/CSS/JS 기반 프론트엔드 구현  
+-  iOS(Swift)로 맛집/블로그 스타일 앱도 준비 중  
+-  프로젝트 구조, UI/UX 디테일, 배포까지 프로젝트 유지 보수 
+-  공부 중: Docker, CI/CD, 클라우드 배포, OAuth2 / 소셜 로그인 고도화  
+
+---
+
+###  Tech Stack
+
+> #### Backend
+![Java](https://img.shields.io/badge/Java-21-007396?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?logo=hibernate&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-000000?logo=gradle&logoColor=white)
+
+---
+
+> #### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)
+
+---
+
+> #### Database & Infra
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+#### Tools & ETC
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
+
+---
+
+### 🐾 Main Project – LastPage
+
+> 반려동물 장례·상담·굿즈 통합 웹 플랫폼
+
+- 장례 예약, 심리 상담 예약, 굿즈(추모 굿즈·주얼리) 예약 기능
+- 카카오페이, 네이버페이 등 결제 연동 구현
+- 소셜 로그인 (Kakao, Naver, Google) + 자체 로그인
+- 마이페이지에서 예약/결제/프로필 관리
+- 고객센터(QnA/FAQ), 관리자 대시보드 등 운영 기능
+
+**Repository:**  
+> [LastPage Project Repo]()
+
+---
+
+###  Other Projects
+
+-  **Developer Portfolio Site**  
+  - 네이비/베이지/화이트 컬러 컨셉의 반응형 포트폴리오  
+  - 좌측 사이드바 + scrollspy 내비게이션  
+  - 소개 / 프로젝트 / 스킬 / 연락 섹션 구성  
+     Repo: 
+
+-  **iOS 맛집 추천 앱 (WIP)**  
+  - Swift + (예정) Spring Boot / FastAPI 백엔드  
+  - 지역/카테고리별 맛집 추천 & 북마크  
+
+필요하면 나중에 자세한 프로젝트 리스트를 표로 정리해서 추가해도 좋아요 👇
+
+| Project | Stack | Description |
+|--------|-------|-------------|
+| LastPage | Spring Boot, JPA, MySQL, Thymeleaf | 반려동물 장례/상담/굿즈 통합 플랫폼 |
+| Portfolio | HTML/CSS/JS, (Tailwind) | 개인 개발자 포트폴리오 사이트 |
+| iOS App | Swift, (Backend 예정) | 맛집 추천 및 기록 앱 |
+
+---
+
+###  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-id>&show_icons=true&theme=transparent" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-github-id>&theme=transparent" alt="GitHub streak" />
+</p>
+
+---
+
+###  Contact
+
+- Email: **dig05252@gmail.com**  
+- Blog / Notion: ([https://example.com](https://www.notion.so/BIGDATA-UI-224ec1c69c8280a9b6ffe4ab01e9de8a))  
+- 기타: 추후 운영 중인 서비스 링크(LastPage, 포트폴리오 배포 주소 등) 추가 예정 
+
+---
+
+###  마지막 말
+
+> “꾸준히 쌓인 로그처럼, 매일 조금씩 성장하는 개발자가 되고 싶습니다.”
+
+
