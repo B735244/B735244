@@ -6,15 +6,21 @@
 
 ---
 
+
 ### Contribution Activity
 > stats 추가하자
 
-
 <div align="center" style="background:#2C3930; padding:20px; border-radius:12px;">
 
-  <br/>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=B735244&show_icons=true&theme=great-gatsby&bg_color=2C3930&hide_border=true" 
+    width="60%"
+  />
 
-  
+  <br/><br/>
+
+  <!-- GitHub Streak Stats -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=B735244&theme=great-gatsby&background=2C3930&hide_border=true" 
     width="60%"
@@ -22,13 +28,14 @@
 
   <br/><br/>
 
- 
+  <!-- GitHub Contribution Chart -->
   <img 
     src="https://ghchart.rshah.org/B735244" 
     width="60%"
   />
 
 </div>
+
 
 ---
 
